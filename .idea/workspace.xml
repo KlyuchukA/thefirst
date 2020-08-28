@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="New" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598634120878</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tree files had been created">
+      <created>1598634632261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598634632261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tree files had been created" />
@@ -80,9 +89,13 @@
       <screen x="2880" y="0" width="2880" height="1560" />
     </state>
     <state x="3994" y="534" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1020/2880.0.2880.1560@2880.0.2880.1560" timestamp="1598634009583" />
-    <state x="4045" y="651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598633875314">
+    <state x="3709" y="378" key="Vcs.Push.Dialog.v2" timestamp="1598634642016">
       <screen x="2880" y="0" width="2880" height="1560" />
     </state>
-    <state x="4045" y="651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1020/2880.0.2880.1560@2880.0.2880.1560" timestamp="1598633875314" />
+    <state x="3709" y="378" key="Vcs.Push.Dialog.v2/0.0.1920.1020/2880.0.2880.1560@2880.0.2880.1560" timestamp="1598634642016" />
+    <state x="4045" y="651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598634618921">
+      <screen x="2880" y="0" width="2880" height="1560" />
+    </state>
+    <state x="4045" y="651" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1020/2880.0.2880.1560@2880.0.2880.1560" timestamp="1598634618921" />
   </component>
 </project>
